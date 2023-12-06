@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RTL-TVI_logo.svg/640px-RTL-TVI_logo.svg.png" group-title="FRANCOPHONE;GENERAL",RTL TVI
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/716
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/768px-RTBF_La_Une_logo.svg.png" group-title="FRANCOPHONE;GENERAL",La Une
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/705
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tipikrtbf.png/640px-Tipikrtbf.png" group-title="FRANCOPHONE;GENERAL",La Deux
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/706
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTBF_La_Trois_logo.svg/640px-RTBF_La_Trois_logo.svg.png" group-title="FRANCOPHONE;GENERAL",La Trois
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/707
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Club_RTL_logo.svg/640px-Club_RTL_logo.svg.png" group-title="FRANCOPHONE;GENERAL",Club RTL
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/710
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/RTL_Plug_Logo_2023.svg/640px-RTL_Plug_Logo_2023.svg.png" group-title="FRANCOPHONE;DIVERTISSEMENT",Plug RTL
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/709
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/640px-Arte-Logo.svg.png" group-title="FRANCOPHONE;GENERAL",ARTE
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48669
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="FRANCOPHONE;GENERAL",TF1
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="FRANCOPHONE;GENERAL",France 2
+http://livetv.ktv.zone/104/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="FRANCOPHONE;GENERAL",France 3
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="FRANCOPHONE;JEUNESSE",France 4
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="FRANCOPHONE;GENERAL",France 5
+http://livetv.ktv.zone/107/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/France_%C3%94_logo.png/640px-France_%C3%94_logo.png" group-title="FRANCOPHONE;DOCUMENTAIRE",France O
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/2528
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/langfr-420px-Canal_News_logo.svg.png" group-title="FRANCOPHONE;ACTUALITE",C News
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50857
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="FRANCOPHONE;ACTUALITE",France 24
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="FRANCOPHONE;ACTUALITE",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="FRANCOPHONE;DIVERTISSEMENT",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_C8_2016.svg/640px-Logo_C8_2016.svg.png" group-title="FRANCOPHONE;DIVERTISSEMENT",C8
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/102
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/AB1_2021.jpg/640px-AB1_2021.jpg" group-title="FRANCOPHONE;DIVERTISSEMENT",AB1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/123
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AB3_logo.svg/640px-AB3_logo.svg.png" group-title="FRANCOPHONE;DIVERTISSEMENT",AB3
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1694
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/langfr-225px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="FRANCOPHONE;DOCUMENTAIRE",Chasse et peche
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/116
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/640px-National_Geographic_Channel.svg.png" group-title="FRANCOPHONE;DOCUMENTAIRE",National Geographic
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/113
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Geographic_Wild_Logo_2019.svg/640px-National_Geographic_Wild_Logo_2019.svg.png" group-title="FRANCOPHONE;DOCUMENTAIRE",National Geographic Wild
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3397
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/Science_et_Vie.jpg/1200px-Science_et_Vie.jpg?20081224124635" group-title="FRANCOPHONE;DOCUMENTAIRE",Sciences et vie
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50438
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Toute_l%27Histoire_%282013%29.svg/1200px-Toute_l%27Histoire_%282013%29.svg.png" group-title="FRANCOPHONE;DOCUMENTAIRE",Toute l'histoire
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4496
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ushuaia_tv_logo_V2-RVB.jpg/800px-Ushuaia_tv_logo_V2-RVB.jpg" group-title="FRANCOPHONE;DOCUMENTAIRE",Ushuaia TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/112
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="FRANCOPHONE;DOCUMENTAIRE",Discovery
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/109
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="FRANCOPHONE;DOCUMENTAIRE",Discovery Science
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/110
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="FRANCOPHONE;CINEMA",Action
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/126
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/720px-Logo_Canal%2B_1995.svg.png" group-title="FRANCOPHONE;CINEMA",Canal+
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3326
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="FRANCOPHONE;CINEMA",Canal+ Cinema
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49749
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/C%2B_Kids.png" group-title="FRANCOPHONE;JEUNESSE",Canal+ Kids
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/2639
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="FRANCOPHONE;DIVERTISSEMENT",Canal+ Series
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52962
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="FRANCOPHONE;SPORT",Canal+ Sports
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50145
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/C%2B_Sport_360.png" group-title="FRANCOPHONE;SPORT",Canal+ 360
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54738
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="FRANCOPHONE;JEUNESSE",Canal J
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/1460
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="FRANCOPHONE;CINEMA",Cine Premier
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3327
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/2560px-CinePlusFrisson.svg.png" group-title="FRANCOPHONE;CINEMA",Cine Frisson
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3328
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1020px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="FRANCOPHONE;CINEMA",Cine Famiz
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3330
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Cin%C3%A9%2B_Emotion_2011.svg/1200px-Logo_Cin%C3%A9%2B_Emotion_2011.svg.png" group-title="FRANCOPHONE;CINEMA",Cine Emotion
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/84
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_Cin%C3%A9%2B_Classic_2011.svg/2560px-Logo_Cin%C3%A9%2B_Classic_2011.svg.png" group-title="FRANCOPHONE;CINEMA",Cine Classic
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/82
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/1280px-Polar%2B_%28Logo%29.png" group-title="FRANCOPHONE;CINEMA",Cine Polar
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/128
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/3/31/20220702223216%21OCS_geants.png" group-title="FRANCOPHONE;CINEMA",OCS Geant
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/90
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/OCS_Pulp.svg/2560px-OCS_Pulp.svg.png" group-title="FRANCOPHONE;CINEMA",OCS Pulp
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/89
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/2560px-OCS_Max.svg.png" group-title="FRANCOPHONE;CINEMA",OCS Max
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/87
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="FRANCOPHONE;JEUNESSE",Mangas
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/122
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/59475-nickelodeon-4teen-nouvelle-chaine-100-series.jpg" group-title="FRANCOPHONE;JEUNESSE",Nickelodeon 4 Teens
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4727
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="FRANCOPHONE;JEUNESSE",Piwi
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/374
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/T%C3%A9l%C3%A9toon%2B_Logo_2011.svg/800px-T%C3%A9l%C3%A9toon%2B_Logo_2011.svg.png" group-title="FRANCOPHONE;JEUNESSE",Teletoon+
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/94
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png" group-title="FRANCOPHONE;JEUNESSE",Tiji
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/2102
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/82/Disney_Junior_logo_2019.png" group-title="FRANCOPHONE;JEUNESSE",Disney Junior
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/48619
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Disney%2B_Original_Logo.svg/220px-Disney%2B_Original_Logo.svg.png" group-title="FRANCOPHONE;JEUNESSE",Disney+
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3174
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/1200px-DisneyChannelEMEA.svg.png" group-title="FRANCOPHONE;JEUNESSE",Disney Channel
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="FRANCOPHONE;JEUNESSE",Cartoon Network
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50953
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="ARABE",MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="ARABE",MBC 3 EUR
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="ARABE",MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png" group-title="ARABE",Al Aoula Inter
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46382
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/1200px-2M_TV_logo.svg.png" group-title="ARABE",2M Monde
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/293
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="ARABE",Medi1 TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/292
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="ARABE",Tamazight TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/295
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Assadissa.png" group-title="ARABE",Assadissa
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/298
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo%2Barryadia%2Bmorocco.png" group-title="ARABE",Arriadia
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg" group-title="ARABE",Arrabia
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/297
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="ARABE",Tele Maroc
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46214
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_aflam_tv.png/120px-Logo_aflam_tv.png" group-title="ARABE",7 Aflam TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49623
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/numidia-tv.png" group-title="ARABE",Numidia TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/300
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Chadatv_logo.png" group-title="ARABE",Chada TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49399
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo-canal-atlas-.png" group-title="ARABE",Canal Atlas
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/49994
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo-ons.svg/1200px-Logo-ons.svg.png" group-title="ARABE",Al Ons TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/52144
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Rtm1.jpg/120px-Rtm1.jpg" group-title="ARABE",Laayoun TV
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53379
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png" group-title="ARABE",Al Aoula
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/54661
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/langfr-100px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="ARABE",Algerie TV1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/305
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_Alg%C3%A9rie_logo.svg/174px-Canal_Alg%C3%A9rie_logo.svg.png" group-title="ARABE",Algerie TV2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46162
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bc/Logo_de_TV3_Alg%C3%A9rie_%282020%29.svg/langfr-100px-Logo_de_TV3_Alg%C3%A9rie_%282020%29.svg.png" group-title="ARABE",Algerie TV3
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/299
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_de_TV4_Alg%C3%A9rie_version_arabe_%282020%29.svg/1613px-Logo_de_TV4_Alg%C3%A9rie_version_arabe_%282020%29.svg.png" group-title="ARABE",Algerie TV4
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/3746
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_de_TV5_Alg%C3%A9rie_%282020%29.svg/langfr-100px-Logo_de_TV5_Alg%C3%A9rie_%282020%29.svg.png" group-title="ARABE",Algerie TV5
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53383
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV6_Alg%C3%A9rie_%282020%29.svg/859px-Logo_de_TV6_Alg%C3%A9rie_%282020%29.svg.png" group-title="ARABE",Algerie TV6
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53385
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/TV7.svg/1200px-TV7.svg.png" group-title="ARABE",Algerie TV7
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53384
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/TV8.svg/800px-TV8.svg.png" group-title="ARABE",Algerie TV8
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/53382
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AlgerianTV2015.png/1200px-AlgerianTV2015.png" group-title="ARABE",TV Coran
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/46310
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Al_Magharibia.png" group-title="ARABE",AL Magharibia 1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/51082
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Al_Magharibia.png" group-title="ARABE",AL Magharibia 2
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/4072
+#EXTINF:-1 tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="ARABE",Al Aoula International
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="ARABE",Al Aoula Laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="ARABE",Al Aqsa Channel
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="ARABE",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ARABE",Al Jazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="ARABE",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="ARABE",Al Qamar TV
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="ARABE",Al Saudiya
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="ARABE",Al Quran Al Kareem TV (Mecca)
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="ARABE",Al Saudiya Alaan
+https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="ARABE",Al Sunnah Al Nabawiyah TV (Medina)
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GqTAMwt.png" group-title="ARABE",ZAD TV
+https://ythls.armelin.one/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
